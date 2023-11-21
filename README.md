@@ -11,5 +11,8 @@ Resolución de los ejercicios propuestos en [Codember.dev](https://codember.dev/
 
 ## Retos
 
- * [CHALLENGE_01](./CHALLENGE_01/) - Mensaje Cifrado ✅
- * [CHALLENGE_02](./CHALLENGE_02/) - Mini Compilador ✅
+| CHALLENGES                          | Nombre            | Completado   |
+|------------------------------------|--------------------|--------------|
+| [CHALLENGE_01](./CHALLENGE_01/)    | Mensaje Cifrado    |     ✅       |
+| [CHALLENGE_02](./CHALLENGE_02/)    | Mini Compilador    |     ✅       |
+| [CHALLENGE_03](./CHALLENGE_03/)    | Cifrado Espía      |     ✅       |
